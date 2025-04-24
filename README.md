@@ -17,7 +17,7 @@ This clone simulates a user-friendly interface where users can chat with an AI a
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Tailwind CSS (or your styling preference)
-- Routing & State: React Router, useState/useEffect (or useContext/Redux)
-- Optional Backend/API:Node.js, Express, OpenAI API, Gemini API, etc.
+- Frontend: React, CSS 
+- Routing & State: React Router, useState,useEffect ,useContext
+
 
